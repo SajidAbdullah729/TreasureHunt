@@ -1,3 +1,3 @@
 # TreasureHunt
 
--A console based Game.
+-A console based Treasure Hunt Game.
