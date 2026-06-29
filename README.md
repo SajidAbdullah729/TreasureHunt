@@ -1,3 +1,3 @@
 # TreasureHunt
 
--A console based Treasure Hunt Game.
+-A Codeblocks Console Based Treasure Hunt Game.
